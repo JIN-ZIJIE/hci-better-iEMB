@@ -1,2 +1,3 @@
 # hci-better-iEMB
-Improved version iEMB for HCI
+
+GitHub Repo for HCI's better iemb
